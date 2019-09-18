@@ -1,0 +1,6 @@
+eureka:
+  client: 
+    service-url:
+      default-zone: http://localhost:8002/eureka
+server:
+  port: 8004
